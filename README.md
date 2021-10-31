@@ -4,5 +4,5 @@ This is just a faster and easy to learn API for new people who is trying to lear
 # Initialization
 You can import it into your code by doing
 ```
-const EasyAPI = require("giajighiwtigjue")
+const EasyAPI = require("easy_javascript_api")
 ```

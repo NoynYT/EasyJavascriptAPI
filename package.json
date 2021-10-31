@@ -1,6 +1,6 @@
 {
-  "name": "giajighiwtigju",
-  "version": "1.0.0",
+  "name": "easy_javascript_api",
+  "version": "1.2",
   "description": "This is just a faster and easy to learn API for new people who is trying to learn javascript!",
   "main": "index.js",
   "scripts": {
